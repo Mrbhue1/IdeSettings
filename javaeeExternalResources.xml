@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://soap.sforce.com/2006/04/metadata" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.3/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.3/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.3/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2021.3/extResources/93b79a08_spring-tool-4.3.xsd" />
+    <resource url="urn:metadata.tooling.soap.sforce.com" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+  </component>
+</application>
