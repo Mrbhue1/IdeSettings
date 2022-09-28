@@ -197,6 +197,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.vermouthx.xcode-theme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="dev.eltonsandre.intellij.spring.assistant.plugin">
           <value>
             <PluginData>
