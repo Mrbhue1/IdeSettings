@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.haulmont.jpab" />
+        <option value="dev.eltonsandre.intellij.spring.assistant.plugin" />
       </list>
     </option>
   </component>
