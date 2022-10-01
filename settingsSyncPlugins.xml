@@ -302,6 +302,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="net.hexar.json2pojo">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
