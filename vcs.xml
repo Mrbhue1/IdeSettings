@@ -46,9 +46,13 @@
           <option name="url" value="https://gitlab.com/isu_aeps_new_group/axis-module.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/isu_aeps_new_group/npci_switch_client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\ISU_Codes" />
+    <option name="cloneParentDir" value="D:\ISU_Codes\AEPS_Bank_Module" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
