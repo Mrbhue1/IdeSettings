@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/whiney/springboot-elasticsearch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sk444/springboot-elasticsearch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ISU-1337\OneDrive\Desktop\KBS_MIDDLEWARE" />
