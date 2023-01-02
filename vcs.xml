@@ -74,9 +74,13 @@
           <option name="url" value="https://github.com/brilianfird/elasticsearch-with-spring-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/isu_aeps_new_group/aeps2module.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ISU-1337\OneDrive\Desktop\KBS_MIDDLEWARE" />
+    <option name="cloneParentDir" value="D:\ISU_Codes\aeps2" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
