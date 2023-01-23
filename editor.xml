@@ -18,8 +18,17 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>
